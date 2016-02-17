@@ -1,7 +1,7 @@
 # Basic RancherOS Cluster
 
 ```
-    vagrant up --provider virtualbox
+vagrant up --provider virtualbox
 ```
 
 ```
