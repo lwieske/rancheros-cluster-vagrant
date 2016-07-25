@@ -1,4 +1,6 @@
-# Basic RancherOS Cluster
+# [DEPRECATED] Basic RancherOS Cluster
+
+** RancherOS does not support Vagrantfile any longer. **
 
 ```
 vagrant up --provider virtualbox
